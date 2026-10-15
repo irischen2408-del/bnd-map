@@ -26,7 +26,7 @@ window.BND_SPOTS = [
  {id:14, city:"首尔", zh:"LP BAR · 泰山同款LP清吧", kr:"LP BAR", cat:"BAR·酒吧", area:"龙山·汉南", members:["泰山"], addr:"首尔龙山区汉南洞657-174(29 Daesagwan-ro 31-gil)", sub:"晚7点开门；红薯冰激凌很好吃；同款座位在吧台左二(靠LP展示墙第二个)", src:"粉丝圣地巡礼整理", conf:"高", mapq:"LP BAR 한남동 大使馆路31街 서울"},
 
  // ===== 圣水 (城东区) =====
- {id:90, city:"首尔", zh:"하츠커피 Hearts Coffee · Count to Love打歌舞台逆应援蛋糕", kr:"하츠커피(Hearts Coffee)", cat:"咖啡·点心", area:"圣水", members:["全员"], addr:"서울 성동구 광나루로11길 7(首尔城东区 光渡路11街 7)", sub:"BND『Count to Love』打歌舞台逆应援同款蛋糕(绿色home deluxe卡片+四叶草小狗奶油布朗尼)出自这家", src:"Threads粉丝分享(26-10-15)", conf:"中", mapq:"하츠커피 성동구 광나루로11길 7"},
+ {id:90, city:"首尔", zh:"하츠커피 Hearts Coffee · Count to Love打歌舞台逆应援蛋糕", kr:"하츠커피(Hearts Coffee)", cat:"咖啡·点心", area:"圣水", members:["全员"], addr:"서울 성동구 광나루로11길 7(首尔城东区 光渡路11街 7)", sub:"BND『Count to Love』打歌舞台逆应援同款蛋糕出自这家", src:"Threads粉丝分享(26-10-15)", conf:"中", mapq:"하츠커피 성동구 광나루로11길 7"},
  {id:16, city:"首尔", zh:"핵밥 核饭 · 成淏vlog同款", kr:"핵밥", cat:"美食", area:"圣水", members:["成淏"], addr:"首尔城东区圣水洞二街316-60", sub:"成淏点的1w6套餐(辣味拉面+炸猪排+叉烧肉)，份量巨大，自助点餐可切中文。⚠️圣水本店据说已关门；핵밥是连锁，可去其它分店吃同款", src:"粉丝圣地巡礼整理", conf:"中", mapq:"핵밥 서울"},
  {id:17, city:"首尔", zh:"objet 人生四格 · 成淏vlog拍照", kr:"포토오브제 성수점", cat:"玩乐·文创", area:"圣水", members:["成淏"], addr:"首尔城东区 연무장길 43-1 104호(성수·포토오브제 성수점)", sub:"活鱼缸/洗衣机背景自助拍照(成淏同款)；拍完立刻扫码存原图(仅留24h)。BND官方CAMCORDOOR「성호 성수 Vlog」(2025-02-21)确认成淏在圣水拍过活鱼缸拍照亭；成淏去时刚维修没换水、水雾蒙蒙，拍活鱼缸可让朋友在旁边帮忙引一下鱼、别聚成一堆(还是看运气)", src:"官方内容 + 粉丝圣地巡礼整理", conf:"高", mapq:"포토오브제 성수 서울"},
  {id:18, city:"首尔", zh:"kinfolk 香水 · 成淏同款", kr:"킨포크", cat:"潮牌·购物", area:"圣水", members:["成淏"], addr:"首尔城东区圣水洞二街316-59(另一家320-1)", sub:"跟会中文的staff说「BND성호同款」会帮你找出来；味道是 caption'bar", src:"粉丝圣地巡礼整理", conf:"高", mapq:"kinfolk 성수동 서울 향수"},
