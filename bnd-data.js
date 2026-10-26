@@ -95,7 +95,7 @@ window.BND_SPOTS = [
  {id:68, city:"日本·东京", zh:"カプセル薬局 高円寺店 扭蛋 · 宰铉/常赫/云鹤", kr:"カプセル薬局 高円寺店", cat:"玩乐·文创", area:"东京·高圆寺", members:["宰铉","常赫","云鹤"], addr:"日本东京都杉并区高円寺北3-20-20 1F", sub:"三人同款；扭蛋墙前拍(常赫抽到动漫戒指/动物周边)", src:"粉丝圣地巡礼整理", conf:"高", mapq:"カプセル薬局 高円寺"},
  {id:69, city:"日本·东京", zh:"Vaji spice 代代木 咖喱 · 云鹤同款", kr:"Vaji spice", cat:"美食", area:"东京·代代木", members:["云鹤"], addr:"日本东京都涩谷区代代木5-63-10", sub:"云鹤2024/03同款；香料咖喱", src:"粉丝圣地巡礼整理", conf:"高", mapq:"Vaji spice 代々木"},
  {id:70, city:"日本·东京", zh:"ELLA RECORDS 幡ヶ谷 黑胶 · 泰山同款", kr:"ELLA RECORDS", cat:"潮牌·购物", area:"东京·幡谷", members:["泰山"], addr:"日本东京都涩谷区西原1-14-10", sub:"泰山2024/02同款；黑胶唱片架前拍(泰山爱Beatles/Oasis)", src:"粉丝圣地巡礼整理", conf:"高", mapq:"ELLA RECORDS 幡ヶ谷"},
- {id:71, city:"日本·东京", zh:"东京塔 · 常赫&云鹤dance challenge", kr:"東京タワー", cat:"玩乐·地标", area:"东京·芝公园", members:["常赫","云鹤"], addr:"日本东京都港区芝公园4-2-8(〒105-0011)", sub:"常赫&云鹤在此拍dance challenge(具体机位帖内未细述)", src:"粉丝圣地巡礼整理", conf:"中", mapq:"東京タワー"},
+ {id:71, city:"日本·东京", zh:"东京塔 · 宰铉/常赫/云鹤同款", kr:"東京タワー", cat:"玩乐·地标", area:"东京·芝公园", members:["宰铉","常赫","云鹤"], addr:"日本东京都港区芝公园4-2-8(〒105-0011)", sub:"常赫&云鹤在此拍dance challenge;常赫2024/07/15 IG、云鹤2024/07/16 X、宰铉2026/01/02 IG均有东京塔打卡(具体机位帖内未细述)", src:"粉丝圣地巡礼整理 + 小红书@MMEOW「跟着小门走-东京版②」", conf:"中", mapq:"東京タワー"},
  {id:72, city:"日本·东京", zh:"WATERS竹芝 船着場付近 · 泰山同款", kr:"WATERS takeshiba", cat:"玩乐·地标", area:"东京·竹芝", members:["泰山"], addr:"日本东京都港区海岸1-10-30(〒105-0022)", sub:"泰山2024/06/24同款；海滨夜景拍照机位(船着場附近)", src:"粉丝圣地巡礼整理", conf:"高", mapq:"WATERS竹芝"},
 
  // ===== 日本·神奈川 =====
@@ -126,6 +126,7 @@ window.BND_SPOTS = [
  {id:96, city:"日本·东京", zh:"代代木路口对镜拍 · 桐儇同款", kr:"", cat:"玩乐·地标", area:"东京·代代木", members:["桐儇"], addr:"日本东京都涩谷区代代木5-37-2", sub:"桐儇2024/03/06 wvs同款;路口反光镜自拍机位", src:"小红书@MMEOW「跟着小门走-东京版②」", conf:"中", mapq:"渋谷区代々木5-37-2"},
  {id:97, city:"日本·东京", zh:"fun.ice! · 宰铉&桐儇同款", kr:"fun.ice!", cat:"咖啡·点心", area:"东京·代代木", members:["宰铉","桐儇"], addr:"日本东京都涩谷区代代木5-64-4", sub:"宰铉&桐儇2024/02/28 IG同款", src:"小红书@MMEOW「跟着小门走-东京版②」", conf:"中", mapq:"fun.ice 代々木"},
  {id:98, city:"日本·东京", zh:"Alishan Park · 成淏同款", kr:"Alishan Park", cat:"咖啡·点心", area:"东京·代代木", members:["成淏"], addr:"日本东京都涩谷区代代木5-63-12", sub:"成淏2024/03/15 wvs同款", src:"小红书@MMEOW「跟着小门走-东京版②」", conf:"中", mapq:"Alishan Park 代々木"},
+ {id:99, city:"日本·东京", zh:"Luke's Lobster 原宿店 龙虾卷 · 宰铉同款", kr:"Luke's Lobster 原宿店", cat:"美食", area:"东京·原宿", members:["宰铉"], addr:"日本东京都涩谷区神宫前5-25-4 BARCA大厦", sub:"宰铉2026/01/02 IG同款LOBSTER ROLL;照片是在店门口拍的;店内没有座位,外带;博主评价味道一般,打卡买一个试试即可", src:"小红书@MMEOW「跟着小门走-东京版②」", conf:"中", mapq:"Luke's Lobster 原宿"},
  // ===== 日本·佐賀 · 成淏 KNOCK OFF : SAGA (微博@Eleanor_0914 26-10-09 + @Knockknock_kokoro 26-10-07) =====
  {id:87, city:"日本·佐賀", zh:"生おはぎ専門店 たなから牡丹もち 佐賀本店 · 成淏同款黄豆粉麻薯", kr:"生おはぎ専門店 たなから牡丹もち 佐賀本店", cat:"咖啡·点心", area:"佐賀", members:["成淏"], addr:"日本佐贺县佐贺市与贺町2-66(2-66 Yokamachi, Saga, 840-0047；Plus Code 772V+2R 佐贺市)", sub:"成淏『KNOCK OFF : SAGA』同款；点黄豆粉麻薯(きなこおはぎ)；无添加生おはぎ专门店，24小时自助贩卖所，ニューオータニ佐賀附近", src:"微博@Eleanor_0914(26-10-09)+@Knockknock_kokoro(26-10-07)圣地巡礼", conf:"高", mapq:"たなから牡丹もち 佐賀本店 与賀町"},
  {id:88, city:"日本·佐賀", zh:"多布施川 · 成淏同款河边", kr:"多布施川 Tafuse River", cat:"玩乐·地标", area:"佐賀", members:["成淏"], addr:"日本佐贺县佐贺市锅岛町蛎久一带(Kakihisa Nabeshima, 佐贺市佐贺县 849-0931)", sub:"成淏『KNOCK OFF : SAGA』同款；佐贺市内的河流，沿岸樱花步道(春天樱花季最美)", src:"微博@Eleanor_0914圣地巡礼(26-10-09)", conf:"中", mapq:"多布施川 鍋島町蛎久 佐賀"},
