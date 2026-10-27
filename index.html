@@ -105,7 +105,7 @@ S.forEach(s=>{s.region=(s.city&&s.city.indexOf('日本·')===0)?s.city.slice(3):
 // 严格按 owner 定的 emoji 对照：🐈朴成淏 🎁李常赫 🐶明宰铉 🐈‍⬛韩泰山 🐠金桐儇 🐷金云鹤
 const MEM={'成淏':'🐈','朴成淏':'🐈','常赫':'🎁','李常赫':'🎁','宰铉':'🐶','明宰铉':'🐶','泰山':'🐈‍⬛','韩泰山':'🐈‍⬛','桐儇':'🐠','金桐儇':'🐠','云鹤':'🐷','金云鹤':'🐷','全员':'🚪','门童同款':'🚪'};
 const MEMORDER=['成淏','常赫','宰铉','泰山','桐儇','云鹤','全员'];
-const REGORDER=['首尔','釜山','江陵','东京','神奈川','福冈','佐賀'];
+const REGORDER=['首尔','釜山','江陵','东京','神奈川','福冈','佐賀','仙台'];
 document.getElementById('meta').textContent=`共 ${S.length} 个点 · 成员真实到访/官方内容·常驻可打卡 · 更新 ${window.BND_UPDATED} · 数据来自官方vlog/综艺+粉丝实测整理`;
 const state={q:'',region:new Set(),mem:new Set(),cat:new Set(),area:new Set()};
 const uniq=k=>[...new Set(S.flatMap(s=>Array.isArray(s[k])?s[k]:[s[k]]))];
