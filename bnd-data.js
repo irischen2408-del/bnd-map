@@ -143,4 +143,5 @@ window.BND_SPOTS = [
   {id:108, city:"日本·长野", zh:"ドン・キホーテ 長野駅前店 · 宰铉同款", kr:"ドン・キホーテ 長野駅前店", cat:"潮牌·购物", area:"长野站前", members:["宰铉"], addr:"〒380-0825 長野県長野市南長野末広町1355-5", sub:"宰铉长野打卡点", src:"微博", conf:"高", mapq:"ドン・キホーテ 長野駅前店"},
   {id:109, city:"日本·长野", zh:"自动贩卖机(拍照点) · 宰铉同款", kr:"自動販売機", cat:"玩乐·地标", area:"长野市", members:["宰铉"], addr:"Plus Code J5RR+Q3 长野市（定位为斜对角的停车场）", sub:"宰铉在可口可乐自动贩卖机前拍照；Google地图定位点是斜对角的停车场", src:"微博", conf:"中", mapq:"J5RR+Q3 Nagano"},
   {id:110, city:"日本·长野", zh:"Ki-Re-i 证件照机 · 宰铉同款", kr:"Ki-Re-i", cat:"玩乐·文创", area:"长野市七瀬", members:["宰铉"], addr:"〒380-0922 長野県長野市七瀬4-10", sub:"宰铉拍证件照的快照机", src:"微博", conf:"高", mapq:"長野県長野市七瀬4-10"},
+  {id:111, city:"美国·纽约", zh:"The Halal Guys(6th Ave & W 53rd St 餐车) · 桐儇同款", kr:"The Halal Guys", cat:"美食", area:"Midtown", members:["桐儇"], addr:"6th Avenue &, W 53rd St, New York, NY 10019, USA", sub:"门童纽约圣地巡礼打卡点(IG 261108 little NYC moments)；在旁边长椅上吃的；BOYNEXTDOOR官方评价食物5/服务5，提醒辣酱比想象中辣很多，还写了\"Do not make eye contact with pigeons!\"", src:"微博", conf:"高", mapq:"The Halal Guys W 53rd St 6th Ave New York"},
 ];
