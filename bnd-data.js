@@ -1,7 +1,7 @@
 // BOYNEXTDOOR 首尔打卡地图 · 主数据文件
 // 数据来源：官方 vlog / 综艺 + 多篇粉丝实测攻略(小红书)互相印证。整理 2026-09-22。
 // 每条：id 名称zh 名称kr 分类 区域 成员[] 地址 mapq 来源 可信度 备注
-window.BND_UPDATED = "2026-10-26";
+window.BND_UPDATED = "2026-11-18";
 window.BND_SPOTS = [
  // ===== 清潭·狎鸥亭 (江南区) =====
  {id:1, city:"首尔", zh:"泰山母校 · 清潭高中", kr:"청담고등학교", cat:"地标", area:"清潭·狎鸥亭", members:["泰山"], addr:"首尔江南区清潭洞(⚠️别按门牌搜，导航到 압구정로데오역 2号口再步行)", sub:"❗别用Naver直接搜『청담고등학교』——会被导到错误的新址(停车场死路)。正确走法：终点搜 압구정로데오역(狎鸥亭Rodeo站·水仁/盆唐线)，2号口出往前走约100米，KN前左手边一条胡同进去；沿路会看到很多手办熊，一直直走到小熊没了、注意左手胡同里就是清潭高。门牌被挡住但校区还没拆", src:"粉丝圣地巡礼整理", conf:"高", mapq:"압구정로데오역 서울"},
@@ -144,4 +144,5 @@ window.BND_SPOTS = [
   {id:109, city:"日本·长野", zh:"自动贩卖机(拍照点) · 宰铉同款", kr:"自動販売機", cat:"玩乐·地标", area:"长野市", members:["宰铉"], addr:"Plus Code J5RR+Q3 长野市（定位为斜对角的停车场）", sub:"宰铉在可口可乐自动贩卖机前拍照；Google地图定位点是斜对角的停车场", src:"微博", conf:"中", mapq:"J5RR+Q3 Nagano"},
   {id:110, city:"日本·长野", zh:"Ki-Re-i 证件照机 · 宰铉同款", kr:"Ki-Re-i", cat:"玩乐·文创", area:"长野市七瀬", members:["宰铉"], addr:"〒380-0922 長野県長野市七瀬4-10", sub:"宰铉拍证件照的快照机", src:"微博", conf:"高", mapq:"長野県長野市七瀬4-10"},
   {id:111, city:"美国·纽约", zh:"The Halal Guys(6th Ave & W 53rd St 餐车) · 桐儇同款", kr:"The Halal Guys", cat:"美食", area:"Midtown", members:["桐儇"], addr:"6th Avenue &, W 53rd St, New York, NY 10019, USA", sub:"门童纽约圣地巡礼打卡点(IG 261108 little NYC moments)；在旁边长椅上吃的；BOYNEXTDOOR官方评价食物5/服务5，提醒辣酱比想象中辣很多，还写了\"Do not make eye contact with pigeons!\"", src:"微博", conf:"高", mapq:"The Halal Guys W 53rd St 6th Ave New York"},
+ {id:112, city:"美国·圣马特奥", zh:"Super Duper Burgers(San Mateo) · 成淏&云鹤同款", kr:"Super Duper Burgers", cat:"美食", area:"湾区", members:["成淏","云鹤"], addr:"1100 Park Pl Bldg 2 Suite 20, San Mateo, CA 94403, USA", sub:"门童美国圣地巡礼打卡点；成淏&云鹤一起吃汉堡；BOYNEXTDOOR官方评价食物5/服务5/氛围5", src:"微博", conf:"高", mapq:"Super Duper Burgers 1100 Park Pl San Mateo"},
 ];
